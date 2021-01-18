@@ -1,8 +1,6 @@
-
 import 'package:flutter/material.dart';
 import 'package:namastecodingweb/components/homepage_content.dart';
 import 'package:namastecodingweb/components/white_divider.dart';
-
 
 class HomeViewTablet extends StatefulWidget {
   @override
