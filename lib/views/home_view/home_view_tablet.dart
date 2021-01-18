@@ -1,9 +1,8 @@
-import 'package:flare_flutter/flare_actor.dart';
+
 import 'package:flutter/material.dart';
 import 'package:namastecodingweb/components/homepage_content.dart';
 import 'package:namastecodingweb/components/white_divider.dart';
-import 'package:namastecodingweb/components/yt_player_controller.dart';
-import 'package:youtube_player_iframe/youtube_player_iframe.dart';
+
 
 class HomeViewTablet extends StatefulWidget {
   @override
